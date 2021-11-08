@@ -52,16 +52,18 @@ Great full-stack application for users that love to read and save books they lov
 
 ## Sample
 
+![image](https://user-images.githubusercontent.com/79943553/133965187-027c7fd2-e96f-4e72-b6f6-dd8c5a665701.png)
 
 
 ## DeployedLink
 
-
+[Deployed Link](https://radiant-bayou-90740.herokuapp.com/)
 
 ## License
 
 #### ISC License
 
+Copyright (c) 2021 <strong>Dyravuth Yorn</strong>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
