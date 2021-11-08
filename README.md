@@ -50,13 +50,10 @@ Dependencies are already written in the package.json, but before running the app
 
 Great full-stack application for users that love to read and save books they love or can be used to save books they WANT to read.
 
-## Sample
-
-![image](https://user-images.githubusercontent.com/79943553/133965187-027c7fd2-e96f-4e72-b6f6-dd8c5a665701.png)
-
 
 ## DeployedLink
 
+<a href="https://radiant-bayou-90740.herokuapp.com/">Link here</a>
 
 ## License
 
